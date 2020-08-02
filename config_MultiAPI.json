@@ -1,0 +1,9 @@
+{
+    "sourceApimName": "unt-nis-manager",
+    "destinationApimName": "uat-nsi-manager",
+    "resourceGroup": "unt-api-manager",
+    "fileFolder": "/home/ExtractorTool/op",
+    "linkedTemplatesBaseUrl": "https://strg270883.blob.core.windows.net/check1",
+    "multipleAPIs": "echo-api, jsonplaceholder",
+    "paramNamedValue":true
+}
