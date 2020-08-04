@@ -4,6 +4,6 @@
     "resourceGroup": "unt-api-manager",
     "fileFolder": "/home/ExtractorTool/op",
     "linkedTemplatesBaseUrl": "https://strg270883.blob.core.windows.net/check1",
-    "multipleAPIs": "echo-api, jsonplaceholder",
+    "multipleAPIs": "echo-api, jsonalbum",
     "paramNamedValue":true
 }
